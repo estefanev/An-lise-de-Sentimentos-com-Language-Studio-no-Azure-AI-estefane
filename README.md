@@ -14,8 +14,6 @@ Tutoriais de laboratório: exercícios guiados que ajudam a aplicar os conceitos
 
 🔗 Links úteis:
 
-### 🔗 Links úteis
-
 - [Azure Cognitive Services Documentation](https://learn.microsoft.com/en-us/azure/ai-services/)
 - [Speech Studio Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
 - [Language Studio Documentation](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
@@ -87,5 +85,6 @@ speech-studio.md → passo a passo, prints e exemplos do laboratório de fala.
 language-studio.md → passo a passo, prints e exemplos do laboratório de linguagem.
 
 documentacoes.md → links oficiais, boas práticas, exemplos de SDKs.
+
 
 
