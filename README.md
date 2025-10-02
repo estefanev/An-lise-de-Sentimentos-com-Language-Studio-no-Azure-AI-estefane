@@ -14,13 +14,14 @@ Tutoriais de laboratório: exercícios guiados que ajudam a aplicar os conceitos
 
 🔗 Links úteis:
 
-Azure Cognitive Services Documentation
+Documentação do Azure Cognitive Services
+: Visão geral dos serviços cognitivos da Microsoft, incluindo Speech e Language.
 
-Speech Studio Documentation
+Documentação do Speech Studio
+: Guias, tutoriais e referência de API para trabalhar com os serviços de fala do Azure.
 
-Language Studio Documentation
-
-Speech Studio - Laboratório Microsoft Learning
+Documentação do Language Studio
+: Recursos para análise de texto, incluindo análise de sentimentos, extração de entidades e classificação de texto.
 
 O Speech Studio é a ferramenta da Microsoft para explorar e testar serviços de fala do Azure.
 
@@ -89,3 +90,4 @@ speech-studio.md → passo a passo, prints e exemplos do laboratório de fala.
 language-studio.md → passo a passo, prints e exemplos do laboratório de linguagem.
 
 documentacoes.md → links oficiais, boas práticas, exemplos de SDKs.
+
