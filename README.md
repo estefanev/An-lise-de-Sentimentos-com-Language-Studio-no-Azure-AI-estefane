@@ -70,21 +70,5 @@ Criar classificadores personalizados para agrupar informações.
 
 Documentar insights: precisão da análise, tipos de entidade identificados, limites do modelo.
 
-💡 Dica de documentação no GitHub:
-No seu repositório, você pode criar arquivos separados para cada laboratório:
-
-anotacoes/
- ┣ speech-studio.md
- ┗ language-studio.md
-links/
- ┗ documentacoes.md
-
-
-speech-studio.md → passo a passo, prints e exemplos do laboratório de fala.
-
-language-studio.md → passo a passo, prints e exemplos do laboratório de linguagem.
-
-documentacoes.md → links oficiais, boas práticas, exemplos de SDKs.
-
 
 
